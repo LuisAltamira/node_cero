@@ -1,0 +1,14 @@
+{
+  "name": "clase1",
+  "version": "1.0.0",
+  "description": "comenzando con express",
+  "main": "01_express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuisAltamira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

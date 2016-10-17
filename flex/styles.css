@@ -1,0 +1,28 @@
+.contenedor{
+    width: 50%;
+    height: 500px;
+    border: 2px solid blue;
+    color: #fff;
+    font-size: 50px;
+    line-height: 100px;
+    margin: auto;
+}
+
+article{
+    width: 200px;
+    height: 100px;
+    background-color: crimson;
+    text-align: center;
+    margin: 10px;
+}
+
+.contenedor{
+    display: flex;
+    /*flex-direction: row-reverse;*/
+    /*flex-wrap: nowrap;*/
+    justify-content: space-around;
+}
+
+.item{
+
+}
